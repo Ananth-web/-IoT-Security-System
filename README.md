@@ -76,4 +76,4 @@ PIR OUT	Pin 2	Motion detection signal
 LED + (Anode)	Pin 13	Via 220Ω resistor
 LED – (Cathode)	GND	Connect directly
 
-<img width="1919" height="902" alt="Image" src="https://github.com/user-attachments/assets/04706073-bb52-4817-8f1d-4bc4ac440d65" />
+<img width="1919" height="903" alt="Image" src="https://github.com/user-attachments/assets/9eb8c5ea-fbf5-40ca-aece-f97611f52407" />
