@@ -77,3 +77,5 @@ LED + (Anode)	Pin 13	Via 220Ω resistor
 LED – (Cathode)	GND	Connect directly
 
 <img width="1919" height="903" alt="Image" src="https://github.com/user-attachments/assets/279669d0-64ed-425f-be07-7be3d3ccc3ad" />
+
+
